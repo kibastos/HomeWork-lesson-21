@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "Antipasto Pro";
+  font-weight: 500;
+  font-style: normal;
+  src: local("Antipasto Pro Medium"),
+        local("AntipastoPro-Medium"),
+        url("../fonts/AntipastoPro-Medium.woff2") format("woff2"),
+        url("../fonts/AntipastoPro-Medium.woff") format("woff"),
+        url("../fonts/AntipastoPro-Medium.eot") format("eot");
+  font-display: swap;
+}
+.greet__title {
+  font-size: 3rem;
+  line-height: 200%;
+}
+
+.greet__text {
+  font-size: 1.5rem;
+  line-height: 150%;
+}
+
+
+
+
+
+
+
+
+
+
+.greet__text1 {
+  font-family: "Antipasto Pro" sans-serif;
+  font-weight: 500;
+}
